@@ -7,6 +7,6 @@ This is a tutorial on Basics of NLP and Question Answering Systems using Informa
 Data and Models <b> Link: https://drive.google.com/drive/folders/1Q9prRy02buQ09X5RDia-KMO1G19qPwws?usp=sharing
 
 Contributors:
-Jyotirmoy Banerjee Principal Data Scientist Ericsson GAIA
-Sridhar Kamoji Data Scientist Ericsson GAIA
-L Raghunath Reddy Sr Data Scientist Ericcson GAIA
+<b> Jyotirmoy Banerjee </b>, Principal Data Scientist Ericsson GAIA <br>
+<b> Sridhar Kamoji </b>, Data Scientist Ericsson GAIA <br>
+<b> L Raghunath Reddy </b>, Sr Data Scientist Ericcson GAIA <br>
